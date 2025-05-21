@@ -1,0 +1,15 @@
+{
+  "name": "mdapply",
+  "version": "0.0.1",
+  "main": "cli.js",
+  "license": "MIT",
+  "man": [
+    "README.md"
+  ],
+  "bin": {
+    "mdapply": "cli.js"
+  },
+  "files": [
+    "cli.js"
+  ]
+}
