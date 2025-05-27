@@ -1,6 +1,6 @@
 {
   "name": "mdapply",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "cli.js",
   "license": "MIT",
   "man": [
@@ -11,5 +11,8 @@
   },
   "files": [
     "cli.js"
-  ]
+  ],
+  "dependencies": {
+    "marked": "^9.1.6"
+  }
 }
